@@ -8,9 +8,9 @@
 import SwiftUI
 struct MadLib {
    
-    var noun = ""
-   var verb = ""
-   var adjective = ""
+    var noun:String
+    var verb: String
+    var adjective:String
     
 }
 
