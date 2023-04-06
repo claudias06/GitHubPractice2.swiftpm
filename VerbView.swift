@@ -7,6 +7,7 @@
 
 import SwiftUI
 struct VerbView: View {
+    @State var madLib: MadLib
     var body: some View {
         NavigationLink("AdjectiveView") {
             AdjectiveView()
